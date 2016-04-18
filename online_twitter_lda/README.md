@@ -1,3 +1,5 @@
+In process of porting to D.
+
 This package contains scripts and python tools for running an online implementation of LDA.
 
 Directory Structure and Files
