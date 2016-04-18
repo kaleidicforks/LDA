@@ -1,10 +1,17 @@
 LDA: Latent Dirichlet Allocation 
 ---
+
+    PORTED TO THE D PROGRAMMING LANGUAGE BY LAEETH ISHARC AND
+    KALEIDIC ASSOCIATES ADVISORY LIMITED IN 2016
+
+    Early stage - does not yet compile
+    
+
 This repository includes three open source versions of LDA with collapsed Gibbs Sampling, modified by nanjunxiao. 
 
-[GibbsLDA++](http://sourceforge.net/projects/gibbslda/files/latest/download)  single thread,written in C++
+[GibbsLDA++](http://sourceforge.net/projects/gibbslda/files/latest/download)  single thread,written in C++ and ported to D
 
-[ompi-lda](http://code.google.com/p/ompi-lda/)  multi-node/multi-threads, written in C++
+[ompi-lda](http://code.google.com/p/ompi-lda/)  multi-node/multi-threads, written in C++.  I plan to port to D.
 
 [online_twitter_lda](https://github.com/jhlau/online_twitter_lda)  multi-threads,written in Python
 
